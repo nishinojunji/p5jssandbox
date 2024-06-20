@@ -3,8 +3,6 @@ function setup() {
 }
 
 function draw() {
-  
-  board[x][y];
-  
+    
   background(220);
 }
